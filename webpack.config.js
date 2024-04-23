@@ -6,7 +6,7 @@ module.exports = {
   mode: "development",
   entry: "./src/index.jsx",
   output: {
-    publicPath: "https://master.d3nwq8e33o714i.amplifyapp.com/",
+    publicPath: "https://master.d46tfejh9xbx2.amplifyapp.com/",
   },
   devServer: {
     port: 3000,
@@ -30,7 +30,7 @@ module.exports = {
       filename: "remoteEntry.js", // Specify the filename for remoteEntry.js
       remotes: {
         // subAppOne: "subAppOne@http://localhost:3002/remoteEntry.js",
-        subAppTwo: "subAppTwo@https://master.d1okphxjsm9jw0.amplifyapp.com/remoteEntry.js",
+        subAppTwo: "subAppTwo@https://master.d3nwq8e33o714i.amplifyapp.com/remoteEntry.js",
       },
       // exposes:{
       //     './UserLoggedIn':'./src/App.jsx'
