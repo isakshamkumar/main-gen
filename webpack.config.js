@@ -6,7 +6,7 @@ module.exports = {
   mode: "development",
   entry: "./src/index.jsx",
   output: {
-    publicPath: "https://master.d46tfejh9xbx2.amplifyapp.com/",
+    publicPath: "https://master.d3i1x4mv2jz4pc.amplifyapp.com/",
   },
   devServer: {
     port: 3000,
