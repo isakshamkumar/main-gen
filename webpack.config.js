@@ -9,7 +9,6 @@ module.exports = {
     publicPath: "https://master.d3i1x4mv2jz4pc.amplifyapp.com/",
   },
   devServer: {
-    port: 3000,
     historyApiFallback:{
         index:'index.html'
     },
